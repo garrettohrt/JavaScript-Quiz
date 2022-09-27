@@ -31,7 +31,7 @@ var questions = [{
 },
 {
     ask: "How does a WHILE loop start",
-    answers: ["while (i <= 10)", "while (i <+10; i++)", "while i = 1 to 10"],
+    answers: ["while (i <= 10)", "while (i <+10; i++)", "while i = 1 to 10", "none of the above"],
     correctAnswer: 0
 },
 {
@@ -51,12 +51,12 @@ var questions = [{
 },
 {
     ask: "How can you add a comment in JavaScript?",
-    answers: ["‘This is a comment", "<!--This is a comment -->", "//This is a comment", "**This is a comment**"],
+    answers: ["‘This is a comment", "<!--This is a comment -->", "//This is a comment", "**This is a comment**", "none of the above"],
     correctAnswer: 2
 },
 {
     ask: "How to insert a comment that has more than one line",
-    answers: ["/*This comment has more than one line*/", "<!--This comment has more than one line-->", "//This comment has more than one line//"],
+    answers: ["/*This comment has more than one line*/", "<!--This comment has more than one line-->", "//This comment has more than one line//", "none of the above"],
     correctAnswer: 0
 },
 {
@@ -71,7 +71,7 @@ var questions = [{
 },
 {
     ask: "Which operator is used to assign a value to a variable?",
-    answers: ["x", "*", "="],
+    answers: ["x", "*", "=", "none of the above"],
     correctAnswer: 2
 }
 ]
